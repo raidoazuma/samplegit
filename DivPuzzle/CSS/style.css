@@ -1,0 +1,39 @@
+@charset "utf-8";
+.clearfix::after{
+  content: "";
+  display: block;
+  clear: both;
+}
+
+body{
+  width: 400px;
+  height: 450px;
+}
+
+header{
+  height: 100px;
+  width: auto;
+  background: #ff0000;
+}
+
+div{
+  height: 250px;
+}
+
+.green--box{
+  width: 150px;
+  background: #00ff1e;
+  float: left;
+
+}
+.blue--box{
+  width: 250px;
+  background: #30f;
+  float: right;
+
+}
+
+footer{
+  height: 100px;
+  background: #ffe600;
+}
