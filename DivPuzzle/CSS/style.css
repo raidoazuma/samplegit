@@ -20,13 +20,13 @@ div{
   height: 250px;
 }
 
-.green--box{
+.green-box{
   width: 150px;
   background: #00ff1e;
   float: left;
 
 }
-.blue--box{
+.blue-box{
   width: 250px;
   background: #30f;
   float: left;
